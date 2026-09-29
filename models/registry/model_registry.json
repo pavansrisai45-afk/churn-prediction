@@ -1,0 +1,10 @@
+{
+    "random_forest": {
+        "v1": {
+            "stage": "production"
+        },
+        "v2": {
+            "stage": "validation"
+        }
+    }
+}
